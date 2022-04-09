@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.app-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
+.image {
+  width: 70px;
+  height: 70px;
+}
+.app-name {
+  font-size: 20px;
+}
